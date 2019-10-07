@@ -1,3 +1,3 @@
-Welcome to **Real Technologies (RT)**
+**Real Technologies (RT)**
 
 www.rtsrl.eu
